@@ -1,0 +1,38 @@
+.container {
+  background-color: lightblue;
+  padding: 20px;
+  text-align: center;
+}
+
+.flex{
+    display: flex;
+    flex-direction: row;
+    height: auto;
+    align-items: baseline;
+    gap:2px;
+    margin: 0;
+}
+
+.flex_col{
+    display: flex;
+    flex-direction: column;
+    gap:2px;
+    padding: 0;
+}
+
+.detail{
+    color:aquamarine;
+    margin: 0 0 32px 0;
+}
+.title{
+    margin:0;
+}
+
+.content{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    height: 492px;
+    justify-content: center;
+    align-items: center;
+}
