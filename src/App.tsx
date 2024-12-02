@@ -1,4 +1,3 @@
-import { Bunney } from 'bunney-ui/Bunney'
 import styles from './App.module.css'
 import './App.css'
 
