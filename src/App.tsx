@@ -2,7 +2,8 @@ import styles from './App.module.css'
 import './App.css'
 
 import { Logo } from 'bunney-ui/Logo'
-import { BunneyLoading } from 'bunney-ui/BunneyLoading'
+import { MadBunney } from 'bunney-ui/MadBunney'
+
 
 
 function App() {
@@ -21,7 +22,7 @@ function App() {
         </div>
         </div> 
           <div className={styles.content}>
-            <BunneyLoading/>
+          <MadBunney count={3} />
         </div>
         <button>choose option</button>
       </div>
