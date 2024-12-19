@@ -10,9 +10,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "bunney-ui": "^0.0.16",
+    "bunney-ui": "^0.0.17",
     "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "react-dom": "^18.3.1",
+    "react-router": "^7.0.2"
   },
   "devDependencies": {
     "@eslint/js": "^9.15.0",
