@@ -9,7 +9,7 @@ export const Root = () => {
         <div className={styles.flex_col}>
         <div className={styles.flex}>
           <h1 className={styles.title}>SCREEN TRACKER</h1>
-          <Logo size={3} />
+          <Logo size={3} color='red' />
         </div>
         <div>  
           <h3 className={styles.detail}>with MadBunney</h3>
